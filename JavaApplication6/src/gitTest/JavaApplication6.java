@@ -18,7 +18,7 @@ public class JavaApplication6 {
         // TODO code application logic here
         
         System.out.println("Hej GIT");
-        
+         System.out.println("Hej GIT");
         
         
     }
